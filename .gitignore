@@ -1,0 +1,6 @@
+result/
+build/
+perf*
+.direnv/
+.envrc
+profile/
